@@ -348,7 +348,6 @@ body {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  width: 880px;
   height: 100vh;
   margin: 50px auto;
 }
